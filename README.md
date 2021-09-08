@@ -38,5 +38,5 @@
 
 ------------
 
-### [Connect with me on Linkedin](https://www.linkedin.com/in/ivangbailey/ "Connect with me on Linkedin")
+### [Connect with me on Linkedin](https://www.linkedin.com/in/samschnaible/ "Connect with me on Linkedin")
 
