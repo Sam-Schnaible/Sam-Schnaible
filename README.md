@@ -3,7 +3,7 @@
 ### About Me
 
 - I recently graduated from the Software Engineering Immersive at [Hack Reactor](https://www.hackreactor.com/coding-bootcamp?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-GAGxDfcp29hdLplIaXfBrrLL-noZV7WkwMzGgZ54yDuHydiM9izaxoCWAoQAvD_BwE)
-- Fun-fact: I used to sale software and now I create it.
+- Fun-fact: I used to sell software and now I create it.
 
 
 #### Frontend Technologies
