@@ -2,7 +2,7 @@
 
 ### About Me
 
-- I recently graduated from the Software Engineering Immersive at [Hack Reactor](https://www.hackreactor.com/coding-bootcamp?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-GAGxDfcp29hdLplIaXfBrrLL-noZV7WkwMzGgZ54yDuHydiM9izaxoCWAoQAvD_BwE)
+- Whether it's an app or an appetizer, I love to create!
 - Fun-fact: I used to sell software and now I create it.
 
 
