@@ -13,6 +13,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next.js-%234ea94b.svg?style=flat&logo=nextdotjs&logoColor=black&color=grey)
 
 #### Backend & Database Technologies
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
