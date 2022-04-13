@@ -3,7 +3,7 @@
 ### About Me
 
 - Whether it's an app or an appetizer, I love to create!
-- Fun-fact: I used to sell software and now I create it.
+- Fun-fact: I used to sell software and now I build it.
 
 
 #### Frontend Technologies
